@@ -1,0 +1,1 @@
+Programul ruleaza pentru fiecare test toti algoritmii de sortare si ii verifica, scriind in fisier timpul pentru respectivul test.
